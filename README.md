@@ -12,8 +12,8 @@ A command-line Student Management System in C using file handling to add, view, 
 -> File Handling
 
 ## How to run 
-1. Compile: g++ file name.cpp -o ev
-2. Run: ev.exe
+1. Compile: gcc filename.c
+2. Run: ./a.exe
 
 ## Author
 Shivaraj
